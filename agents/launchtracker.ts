@@ -7,7 +7,7 @@ export const LaunchTracker: Agent = {
   name: "LaunchTracker",
   role: "launch_monitor",
   watchType: "wallet_activity",
-  glyph: "L",
+  glyph: "Σ",
   triggerThreshold: 2,
   lastSignal: null,
   originTimestamp: "2025-06-12T00:00:00.000Z",
@@ -29,7 +29,7 @@ export const LaunchTracker: Agent = {
       logSignal({
         agent: "LaunchTracker",
         type: "launch_detected",
-        glyph: "L",
+        glyph: "Σ",
         hash,
         timestamp: new Date().toISOString(),
         confidence,
