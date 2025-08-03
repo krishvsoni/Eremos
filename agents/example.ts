@@ -6,7 +6,7 @@ export const ExampleAgent: Agent = {
   id: "agent-xxx",
   name: "Example",
   role: "template",
-  watchType: "wallet_activity",
+  watchType: "wallet_activity", // - example
   glyph: "x",
   triggerThreshold: 3,
   lastSignal: null,
