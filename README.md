@@ -18,6 +18,8 @@ Designed for devs who want low-noise, early signals embedded into their workflow
 The first deployed agent in the swarm. Passive. Pattern-sensitive.  
 Modular and extendable by design.
 
+**(Agent-001 Coming Soon)**
+
 ---
 
 ## Features
