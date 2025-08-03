@@ -15,10 +15,11 @@ Designed for devs who want low-noise, early signals embedded into their workflow
 </p>
 
 **Meet Theron - Agent-000**  
-The first deployed agent in the swarm. Passive. Pattern-sensitive.  
-Modular and extendable by design.
+*The first deployed agent in the swarm. Passive. Pattern-sensitive.  
+Modular and extendable by design.*
 
-**(Agent-001 Coming Soon)**
+
+**Agent-001 Coming Soon**
 
 ---
 
