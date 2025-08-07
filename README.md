@@ -19,7 +19,7 @@ Designed for devs who want low-noise, early signals embedded into their workflow
 Modular and extendable by design.*
 
 
-**Agent-001 Coming Soon**
+**Agent-001 Coming Soon** [Teaser](https://x.com/EremosCore/status/1949154939923833239)
 
 ---
 
