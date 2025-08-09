@@ -62,7 +62,7 @@ An example signal emitted by an agent detecting a live token deployment:
 
 ## Signal Confidence
 
-Each emitted signal includes a `confidence` score (0–1) based on behavioral heuristics:
+Each emitted signal includes a `confidence` score (0-1) based on behavioral heuristics:
 - CEX-origin funding (e.g. Kraken, Coinbase)
 - Time between funding → deploy
 - Wallet linkage density (bundled activity)
@@ -118,7 +118,7 @@ If you're a designer, artist, or just have ideas that fit the mythos - send us a
 
 ## License
 
-MIT © Eremos
+MIT © Eremos LLC
 
 ---
 
